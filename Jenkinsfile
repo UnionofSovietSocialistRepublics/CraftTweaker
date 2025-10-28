@@ -1,5 +1,5 @@
 #!/usr/bin/env groovy
-
+/*
 def docsOutDir = 'docsOut'
 def docsRepositoryUrl = 'git@github.com:CraftTweaker/CraftTweaker-Documentation.git'
 def gitSshCredentialsId = 'crt_git_ssh_key'
@@ -138,3 +138,4 @@ pipeline {
         disableConcurrentBuilds()
     }
 }
+*/

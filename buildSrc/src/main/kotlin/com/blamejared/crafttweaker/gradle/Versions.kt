@@ -2,21 +2,21 @@ package com.blamejared.crafttweaker.gradle
 
 object Versions {
 
-    const val MINECRAFT = "1.21.1"
-    const val MOD = "21.0"
+    const val MINECRAFT = "1.21.10"
+    const val MOD = "22.0"
     const val ZENCODE = "0.3.8"
 
     const val MOD_JAVA = "21"
     const val ZENCODE_JAVA = "8"
 
-    const val FABRIC = "0.102.1+1.21.1"
-    const val FABRIC_LOADER = "0.15.11"
+    const val FABRIC_LOADER = "0.17.3"
+    const val FABRIC = "0.135.0+1.21.10"
 
-    const val FORGE = "49.0.19"  // 1.20.4
-    const val FORGE_LOADER = "49"  // 1.20.4
+//    const val FORGE = "49.0.19"  // 1.20.4
+//    const val FORGE_LOADER = "49"  // 1.20.4
 
-    const val NEO_FORM = "1.21.1-20240808.144430" // https://projects.neoforged.net/neoforged/neoform
-    const val NEO_FORGE = "21.1.8"
+    const val NEO_FORM = "1.21.10-20251010.172816" // https://projects.neoforged.net/neoforged/neoform
+    const val NEO_FORGE = "21.10.8-beta"
     const val NEO_FORGE_LOADER = "4"
 
     const val MIXIN = "0.8.5"
